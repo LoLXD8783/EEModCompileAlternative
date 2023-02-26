@@ -1,0 +1,2 @@
+# EEModCompileAlternative
+WIP
